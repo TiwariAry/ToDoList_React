@@ -200,7 +200,8 @@ Feel free to check the [issues page](https://github.com/yourusername/todo-app/is
 
 ## 📄 License
 
-
+This project is licenced under [MIT Licence](https://github.com/TiwariAry/ToDoList_React/blob/main/LICENSE)
+Please feel free to fork, modify, and build on it.
 
 ---
 
